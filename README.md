@@ -1,6 +1,6 @@
 # hello-world
 This is a test
 
-My first experiences with github have proed satisfactory. 
+My first experiences with github have proved satisfactory. 
 
-I am person. That is all you need to know.
+I am a person. That is all you need to know.
