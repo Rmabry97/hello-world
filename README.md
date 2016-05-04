@@ -1,2 +1,6 @@
 # hello-world
-This is test
+This is a test
+
+My first experiences with github have proved satisfactory. 
+
+I am a person. That is all you need to know.
